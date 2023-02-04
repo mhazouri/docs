@@ -1,0 +1,16 @@
+es (19 sloc)  311 Bytes
+
+{
+  "Languages":[
+    {
+      "DisplayName" : "English",
+      "Code" : "en",
+      "IsDefault": true
+    },
+	{
+      "DisplayName" : "Arabic",
+      "Code" : "ar",
+      "IsDefault": false
+    }
+  ]
+}
